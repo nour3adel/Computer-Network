@@ -4,7 +4,7 @@
 critical role of providing communication services directly to the
 application processes running on different hosts.”
 
-<p align='center'><img src="./images/chapter3/cover.jpg"/></p>
+<p align='center'><img src="./imgs/cover.jpg"/></p>
 
 ## 3.1 Introduction and Transport-Layer Services
 
